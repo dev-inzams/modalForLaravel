@@ -10,7 +10,7 @@ In Laravel's public folder, keep the css file in css and the javascript file in 
 <h2>This is the Full Html Template</h2>
 <pre>
 <code>
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,6 +36,6 @@ In Laravel's public folder, keep the css file in css and the javascript file in 
 
 <script src="modal.js"></script>
 </body>
-</html>
+</html> -->
 </code>
 <pre>
