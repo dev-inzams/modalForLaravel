@@ -8,6 +8,7 @@ In Laravel's public folder, keep the css file in css and the javascript file in 
 
 
 <h2>This is the Full Html Template</h2>
+<pre>
 <code>
 <!DOCTYPE html>
 <html lang="en">
@@ -37,3 +38,4 @@ In Laravel's public folder, keep the css file in css and the javascript file in 
 </body>
 </html>
 </code>
+<pre>
